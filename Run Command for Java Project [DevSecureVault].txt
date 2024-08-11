@@ -1,1 +1,4 @@
 cd "D:\DevSecureVault\" && javac DevSecureVault.java && java DevSecureVault
+
+NOTE:
+If Get error then, Create "Data/Users" directories where DevSecureVault.java located.
